@@ -107,7 +107,7 @@ a {
 }
 /*Head section*/
 .title-section {
-  max-width: 1600;
+  max-width: 1600px;
   background-color: var(--gray-color-hero);
   display: flex;
   align-items: center;
